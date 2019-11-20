@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: 801ff0021a403794d96c87857606f318
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2075059095354633327
+    second: HyperArm_Upper
+  - first:
+      213: 7238220540085995981
+    second: HyperArm_Fore
+  - first:
+      213: -3019869491582497871
+    second: Claw_Stopwatch
+  - first:
+      213: 2631496728288299590
+    second: Claw_Pencil
+  - first:
+      213: 6707426803946825350
+    second: Claw_Gun
+  - first:
+      213: 4073896952097567225
+    second: Claw_Ball
+  - first:
+      213: 4546917068033771090
+    second: HyperArm_Claws_0
+  - first:
+      213: -163004931904560270
+    second: Claw_Glove
+  - first:
+      213: -2278655730004847216
+    second: Claw_Yarn
+  - first:
+      213: 4942226526946291647
+    second: Claw_Bulb_On
+  - first:
+      213: 4391571207996171106
+    second: Claw_Bulb_Off
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HyperArm_Upper
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 177
+        width: 173
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa52b73018cbfdb4f97d7525b902ca44
+      internalID: -2075059095354633327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HyperArm_Fore
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 167
+        width: 164
+        height: 588
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b0463b51714cf44b8ace3ece589a0d
+      internalID: 7238220540085995981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw_Stopwatch
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 636
+        width: 230
+        height: 253
+      alignment: 9
+      pivot: {x: 0.505654, y: 0.3704342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a96aadfbb3981d40bb4faca603475e2
+      internalID: -3019869491582497871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw_Pencil
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 650
+        width: 128
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5050802, y: 0.48029274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bb8ec6d37d0134bb0e6d6c3910f7d8
+      internalID: 2631496728288299590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw_Gun
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 700
+        width: 131
+        height: 201
+      alignment: 9
+      pivot: {x: 0.49999908, y: 0.47088078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1115df9e4be92c74db26c396de800b3a
+      internalID: 6707426803946825350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw_Ball
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 416
+        width: 228
+        height: 211
+      alignment: 9
+      pivot: {x: 0.5028521, y: 0.4815072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d853c36437a9c8246b854c7bfeb101d5
+      internalID: 4073896952097567225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HyperArm_Claws_0
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 416
+        width: 199
+        height: 210
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4473547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f46d2a2670104b44a5f266314c50016
+      internalID: 4546917068033771090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw_Glove
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 462
+        width: 121
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45629cf197fc70d4fbd019194f22473d
+      internalID: -163004931904560270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw_Yarn
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 441
+        width: 199
+        height: 189
+      alignment: 9
+      pivot: {x: 0.49999937, y: 0.46903226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908f0d50fbef339418adade04673ec37
+      internalID: -2278655730004847216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw_Bulb_On
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 183
+        width: 131
+        height: 255
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc7e66e709658140be2e3987bd02709
+      internalID: 4942226526946291647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw_Bulb_Off
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 165
+        width: 131
+        height: 255
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f698de9b849bd54595d875a6b789bca
+      internalID: 4391571207996171106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
